@@ -48,4 +48,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[Distributed under the MIT License.](https://choosealicense.com/licenses/mit/)
+[Distributed under the GNU GPLv3 License.](https://choosealicense.com/licenses/gpl-3.0)
